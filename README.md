@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá mundo! Me chamo Luiz Felipe.
+[![Luiz Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfg-oliveira&show_icons=true&theme=tokyonight)](https://www.linkedin.com/in/luiz-felipe-g-de-oliveira-346346147/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfg-oliveira&theme=tokyonight&layout=compact)](https://github.com/lfg-oliveira)
+##
 <!--
 **lfg-oliveira/lfg-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
